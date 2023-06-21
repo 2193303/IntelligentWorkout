@@ -4,7 +4,7 @@ apply plugin: 'io.fabric'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "io.github.taimoor.workoutTrainer"
+        applicationId "io.github.bilal.workoutTrainer"
         minSdkVersion 22
         targetSdkVersion 28
         versionCode 1

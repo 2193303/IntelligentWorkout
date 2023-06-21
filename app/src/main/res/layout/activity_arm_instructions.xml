@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:background="#000000"
     android:layout_height="match_parent"
-    tools:context="io.github.taimoor.workoutTrainer.ArmWorkout.ArmInstructionsActivity">
+    tools:context="io.github.bilal.workoutTrainer.ArmWorkout.ArmInstructionsActivity">
     <androidx.appcompat.widget.Toolbar
         android:id="@+id/armInstructionToolbar"
         android:layout_width="match_parent"
